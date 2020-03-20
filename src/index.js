@@ -9,7 +9,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 // import Badge from './components/Badge';
-import BadgeNew from './containers/badgeNews';
+import BadgeNew from './containers/BadgeNews';
 const nombre = 'Ricardo Serin';
 // const element = React.createElement('h1', {}, `Hola ${nombre}`);
 
