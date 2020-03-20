@@ -1,5 +1,5 @@
 import React from 'react';
-import { render } from 'react-dom';
+// import { render } from 'react-dom';
 import confLogo from '../images/badge-header.svg';
 import '../styles/Badge.css';
 

@@ -10,7 +10,7 @@ import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 // import Badge from './components/Badge';
 import BadgeNew from './containers/BadgeNews';
-const nombre = 'Ricardo Serin';
+// const nombre = 'Ricardo Serin';
 // const element = React.createElement('h1', {}, `Hola ${nombre}`);
 
 // const jsx2 = <h1>Hello, Platzi Badges!</h1>;
