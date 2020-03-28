@@ -3,7 +3,7 @@ import React from 'react';
 import '../styles/Navbar.css';
 import logo from '../images/logo.svg'
 
-class NavBar extends React.Component {
+class Navbar extends React.Component {
   render() {
     return (
       <div className='Navbar'>
@@ -19,4 +19,4 @@ class NavBar extends React.Component {
   }
 }
 
-export default NavBar;
+export default Navbar;
